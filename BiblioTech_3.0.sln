@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioTech_3.0", "BiblioTech_3.0\BiblioTech_3.0.csproj", "{26A5772D-EFCB-4310-9F47-A0C3668B2F3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibliotech_Tests", "Bibliotech_Tests\Bibliotech_Tests.csproj", "{12D2F684-9EAF-47C6-9CC2-F3BED5922CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26A5772D-EFCB-4310-9F47-A0C3668B2F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A5772D-EFCB-4310-9F47-A0C3668B2F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A5772D-EFCB-4310-9F47-A0C3668B2F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A5772D-EFCB-4310-9F47-A0C3668B2F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D2F684-9EAF-47C6-9CC2-F3BED5922CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D2F684-9EAF-47C6-9CC2-F3BED5922CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D2F684-9EAF-47C6-9CC2-F3BED5922CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D2F684-9EAF-47C6-9CC2-F3BED5922CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD554742-90BE-4262-82CD-6C1B8FBECA6C}
+	EndGlobalSection
+EndGlobal
